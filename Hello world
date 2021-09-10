@@ -8,8 +8,8 @@ class Main {
     String userName = myObj.nextLine();  // Read user input
     System.out.println("Username is: " + userName);  // Output user input
     
-    //System.out.println("Enter username");
-    //System.out.println("Username is: " + userName);  // Output user input
+    //System.out.println("Enter pusername");
+    //System.out.println("Username is: " + puserName);  // Output user input
 
 
   }
