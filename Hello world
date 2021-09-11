@@ -9,6 +9,9 @@ class Main {
     System.out.println("Username is: " + userName);  // Output user input
     
     System.out.println("Enter password");
+    
+    String userName = myObj.nextLine();  // Read user input
+
     System.out.println("password is: " + userName);  // Output user input
 
 
